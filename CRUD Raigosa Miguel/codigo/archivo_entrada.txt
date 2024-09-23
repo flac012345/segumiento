@@ -1,0 +1,4 @@
+Hola, este es un archivo de prueba.
+Vamos a convertir su contenido a mayúsculas.
+Espero que funcione correctamente.
+¡Gracias por utilizar este programa!
